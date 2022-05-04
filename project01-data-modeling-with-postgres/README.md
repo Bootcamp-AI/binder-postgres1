@@ -1,6 +1,6 @@
 # Project data modeling with PostgreeSQL
 
-This project is the first project of the Data Engineer Nanodegree in Udacity. 
+This project is the first project of the Data Engineer Nanodegree in Bootcamp AI. 
 
 ### Introduction
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new 
